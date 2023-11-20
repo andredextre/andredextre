@@ -4,7 +4,7 @@
 <h3 align="center">Water Resources💧 | Data Science (Python, GIS, R) | Environmental Justice </h3>
 <br>
 
-🐦 **Twitter/X:** [@Andredexx_data](https://twitter.com/Andre_data_)
+🐦 **Twitter/X:** [@Andredex_data](https://twitter.com/Andredex_data)
 
 📍**Based:** San Francisco Bay Area
 
